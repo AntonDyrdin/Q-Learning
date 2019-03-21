@@ -13,8 +13,8 @@ namespace Manipulator_simulation
         public List<DMSAction> defaultActions;
         public State lastState;
         Random r;
-        public double epsilon = 0.1;
-        public double alpha = 0.5;
+        public double epsilon = 0.01;
+        public double alpha = 1;
         public double gamma = 0.05;
         public DecisionMakingSystem(Form1 form1)
         {
@@ -79,7 +79,7 @@ namespace Manipulator_simulation
             }
             log(s); */
 
-            double Qmax = -1;
+            double Qmax =double.MinValue;
             double CountMin = double.MaxValue;
             if (r.NextDouble() < epsilon)
             {
