@@ -1,0 +1,30 @@
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Manipulator simulation\Manipulator simulation\bin\Debug\Manipulator simulation.exe.config
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Manipulator simulation\Manipulator simulation\bin\Debug\Manipulator simulation.exe
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Manipulator simulation\Manipulator simulation\bin\Debug\Manipulator simulation.pdb
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator simulation.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator_simulation.Form1.resources
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator_simulation.Properties.Resources.resources
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator simulation.csproj.GenerateResource.Cache
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator simulation.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator simulation.exe
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator simulation.pdb
+\\DESKTOP-V4VJU9V\Station Desktop\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator simulation.csprojAssemblyReference.cache
+\\DESKTOP-V4VJU9V\Station Desktop\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator_simulation.Form1.resources
+\\DESKTOP-V4VJU9V\Station Desktop\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator_simulation.Properties.Resources.resources
+\\DESKTOP-V4VJU9V\Station Desktop\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator simulation.csproj.GenerateResource.cache
+\\DESKTOP-V4VJU9V\Station Desktop\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator simulation.csproj.CoreCompileInputs.cache
+\\DESKTOP-V4VJU9V\Station Desktop\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator simulation.exe
+\\DESKTOP-V4VJU9V\Station Desktop\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator simulation.pdb
+\\DESKTOP-V4VJU9V\Station Desktop\Manipulator simulation\Manipulator simulation\bin\Debug\Manipulator simulation.exe.config
+\\DESKTOP-V4VJU9V\Station Desktop\Manipulator simulation\Manipulator simulation\bin\Debug\Manipulator simulation.exe
+\\DESKTOP-V4VJU9V\Station Desktop\Manipulator simulation\Manipulator simulation\bin\Debug\Manipulator simulation.pdb
+D:\Anton\Desktop\Manipulator simulation\Manipulator simulation\bin\Debug\Manipulator simulation.exe.config
+D:\Anton\Desktop\Manipulator simulation\Manipulator simulation\bin\Debug\Manipulator simulation.exe
+D:\Anton\Desktop\Manipulator simulation\Manipulator simulation\bin\Debug\Manipulator simulation.pdb
+D:\Anton\Desktop\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator simulation.csprojResolveAssemblyReference.cache
+D:\Anton\Desktop\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator_simulation.Form1.resources
+D:\Anton\Desktop\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator_simulation.Properties.Resources.resources
+D:\Anton\Desktop\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator simulation.csproj.GenerateResource.Cache
+D:\Anton\Desktop\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator simulation.csproj.CoreCompileInputs.cache
+D:\Anton\Desktop\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator simulation.exe
+D:\Anton\Desktop\Manipulator simulation\Manipulator simulation\obj\Debug\Manipulator simulation.pdb
